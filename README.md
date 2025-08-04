@@ -13,9 +13,11 @@ Below are the steps I followed in the `learn_git` folder:
 5. Created `fourth.txt`, added it, and committed with the message `"adding fourth.txt"`.
 6. Deleted `third.txt`, added the change to the staging area using `git add'.
 7. Configured Git to show logs directly in the terminal by using:
+
    ```bash
    git config --global core.pager cat
-8.Checked the commit history usingthe 'git log'.
+   
+8. Checked the commit history usingthe 'git log'.
 9. View the global configuration:
         git config --global --list
 10. Push the screenshots to GitHub:
@@ -24,3 +26,9 @@ Below are the steps I followed in the `learn_git` folder:
         git add *.png (all the screenshots that i taked)
         git commit -m "adding screenshots"
         git push -u origin main
+   
+
+
+8.
+9. 
+10. 
