@@ -19,6 +19,7 @@ Below are the steps I followed in the `learn_git` folder:
    
 8. Checked the commit history usingthe 'git log'.
 9. View the global configuration:
+
         git config --global --list
 10. Push the screenshots to GitHub:
         git remote add origin https://github.com/mayssamhira/git-checkpoint.git /
